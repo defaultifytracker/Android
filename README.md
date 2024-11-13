@@ -13,6 +13,7 @@ This project is a Demo Application designed to capture and log detailed runtime 
 * Log Management: Collects runtime logs for debugging and analysis.
 * Screenshot Capture: Takes on-demand screenshots of the app screen for visual reference during debugging.
 * Screen Recording: Records the app screen to capture the full sequence of user interactions for detailed bug analysis.
+* Crash Reporting: Automatically captures crash reports and stack traces when the app crashes.
 
 
 
